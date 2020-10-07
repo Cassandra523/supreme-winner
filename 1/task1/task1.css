@@ -1,0 +1,11 @@
+.picture{
+    position: absolute;
+    left:60px;
+}
+.last{
+    position:relative;
+    top:1050px;
+}
+.last ul{
+    list-style: none;
+}
